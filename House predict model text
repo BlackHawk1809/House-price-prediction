@@ -1,0 +1,14 @@
+Model Outputs
+
+
+1. Decision Tree:
+   Mean : 4.267946248902558
+   Stand deviation : 0.7708512474835006
+
+2. LinearRegression:
+   Mean : 5.037482786117751
+   Stand deviation : 1.0594382405606948
+
+3. Random Forest Regressor
+   Mean : 3.339741246476089
+   Stand deviation : 0.7279597425471176
